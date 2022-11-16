@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStgyNwtf2WGJ_BQgZeDtK7FHDJeMTw3Tl5yhzfsPIzXmckASvkMycWVsAQHnJ6ibcICeA&usqp=CAU)
+<img  alt="Coding" width="1600" height="300" src="https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif">
 
 <h1 align="center">Hi 👋, I'm Vishal Dave</h1>
 <h3 align="center">I am a student of School of Data Science DAVV from (Indore) India</h3>
