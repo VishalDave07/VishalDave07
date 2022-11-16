@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **vishaldavev2001@gmail.com**
 
-- 📄 Resume ([Vishal_Dave_Resume (1).pdf](https://github.com/VishalDave07/VishalDave07/files/10018659/Vishal_Dave_Resume.1.pdf))
+- 📄 Resume [Vishal_Dave_Resume (1).pdf](https://github.com/VishalDave07/VishalDave07/files/10018659/Vishal_Dave_Resume.1.pdf)
 
 - ⚡ Fun fact **I think I am funny**
 
