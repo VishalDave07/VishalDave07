@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Dave</h1>
-<h3 align="center">I am a student of School of Data Science DAVV from (Indore) India</h3>
+<h3 align="center">I am a student of School of Data Science and Forecasting (DAVV) Indore, India</h3>
 
 - 🌱 I’m currently learning **Data science**
 
