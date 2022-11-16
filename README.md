@@ -1,5 +1,8 @@
+
 <h1 align="center">Hi 👋, I'm Vishal Dave</h1>
-<h3 align="center">I am a student of School of Data Science and Forecasting (DAVV) Indore, India</h3>
+<h3 align="center">I am a student of School of Data Science DAVV from (Indore) India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishaldave07&label=Profile%20views&color=0e75b6&style=flat" alt="vishaldave07" /> </p>
 
 - 🌱 I’m currently learning **Data science**
 
@@ -8,7 +11,6 @@
 - 📫 How to reach me **vishaldavev2001@gmail.com**
 
 - 📄 Resume [Vishal_Dave_Resume.pdf](https://github.com/VishalDave07/VishalDave07/files/10018679/Vishal_Dave_Resume.pdf)
-
 
 - ⚡ Fun fact **I think I am funny**
 
@@ -20,3 +22,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+
+<p><img align="Centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishaldave07&show_icons=true&locale=en&layout=compact" alt="vishaldave07" /></p>
+
+
+<p>&nbsp;<img align="Centre" src="https://github-readme-stats.vercel.app/api?username=vishaldave07&show_icons=true&locale=en" alt="vishaldave07" /></p>
+
+<p><img align="Centre" src="https://github-readme-streak-stats.herokuapp.com/?user=vishaldave07&" alt="vishaldave07" /></p>
