@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data science**
 
-- 👨‍💻 All of my projects are available at [https://github.com/VishalDave07/VishalDave07](https://github.com/VishalDave07/VishalDave07)
+- 👨‍💻 All of my projects are available at [https://github.com/VishalDave07/VishalDave07](https://github.com/VishalDave07?tab=repositories)
 
 - 📫 How to reach me **vishaldavev2001@gmail.com**
 
